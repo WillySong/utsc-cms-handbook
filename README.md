@@ -1,5 +1,7 @@
 # UTSC CMS Handbook
 
+## NOTE THIS IS OUT OF DATE DUE TO CHANGES TO POST AND CSCA48. CSCA48 IS NOW DONE IN C.
+
 This is a project made to help incoming first years to the CMS (Computer Science, Math, Statistics) program at the University of Toronto Scarborough campus.
 
 ## Contributing
